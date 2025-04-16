@@ -10,7 +10,7 @@ sites:
   - name: "IREA ADMIN BE" 
     url: $IREA_ADMIN_BE_URL
   - name: "IREA ADMIN FE" 
-    url: $IREA_ADMIN_fE_URL
+    url: $IREA_ADMIN_FE_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
