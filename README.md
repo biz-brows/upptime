@@ -1,5 +1,3 @@
-# [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
-
 ## [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
 
 <!--start: status pages-->
