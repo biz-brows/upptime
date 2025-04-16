@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 7
+      "2025-04-16": 10
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 7
+      "2025-04-16": 10
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$IREA_ADMIN_FE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "irea-admin-fe",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 1018,
+    "timeDay": 1018,
+    "timeWeek": 1018,
+    "timeMonth": 1018,
+    "timeYear": 1018,
     "dailyMinutesDown": {
-      "2025-04-16": 7
+      "2025-04-16": 10
     }
   }
 ]
