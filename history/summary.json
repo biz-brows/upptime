@@ -4,19 +4,19 @@
     "url": "https://irea.kiminet.com",
     "icon": "https://icons.duckduckgo.com/ip3/irea.kiminet.com.ico",
     "slug": "irea",
-    "status": "down",
-    "uptime": "87.26%",
-    "uptimeDay": "87.26%",
-    "uptimeWeek": "87.26%",
-    "uptimeMonth": "87.26%",
-    "uptimeYear": "87.26%",
-    "time": 790,
-    "timeDay": 790,
-    "timeWeek": 790,
-    "timeMonth": 790,
-    "timeYear": 790,
+    "status": "up",
+    "uptime": "41.76%",
+    "uptimeDay": "41.70%",
+    "uptimeWeek": "41.76%",
+    "uptimeMonth": "41.76%",
+    "uptimeYear": "41.76%",
+    "time": 669,
+    "timeDay": 499,
+    "timeWeek": 669,
+    "timeMonth": 669,
+    "timeYear": 669,
     "dailyMinutesDown": {
-      "2025-04-17": 49,
+      "2025-04-17": 801,
       "2025-04-16": 38
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 919,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2025-04-17": 49,
+      "2025-04-17": 801,
       "2025-04-16": 596
     }
   },
@@ -58,7 +58,7 @@
     "timeMonth": 575,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-04-17": 49,
+      "2025-04-17": 801,
       "2025-04-16": 596
     }
   },
@@ -67,19 +67,19 @@
     "url": "$IREA_ADMIN_FE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "irea-admin-fe",
-    "status": "down",
-    "uptime": "84.64%",
-    "uptimeDay": "84.64%",
-    "uptimeWeek": "84.64%",
-    "uptimeMonth": "84.64%",
-    "uptimeYear": "84.64%",
-    "time": 975,
-    "timeDay": 975,
-    "timeWeek": 975,
-    "timeMonth": 975,
-    "timeYear": 975,
+    "status": "up",
+    "uptime": "38.86%",
+    "uptimeDay": "38.86%",
+    "uptimeWeek": "38.86%",
+    "uptimeMonth": "38.86%",
+    "uptimeYear": "38.86%",
+    "time": 821,
+    "timeDay": 821,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-04-17": 49,
+      "2025-04-17": 801,
       "2025-04-16": 48
     }
   }
