@@ -1,7 +1,7 @@
 url: $IREA_ADMIN_FE_URL
-status: down
-code: 502
-responseTime: 1046
-lastUpdated: 2025-04-17T20:30:50.120Z
+status: up
+code: 200
+responseTime: 827
+lastUpdated: 2025-04-17T20:44:22.905Z
 startTime: 2025-04-16T14:11:24.546Z
 generator: Upptime <https://github.com/upptime/upptime>
