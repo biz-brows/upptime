@@ -7,8 +7,19 @@ sites:
     url: https://irea.kiminet.com
   - name: "IREA BE" 
     url: $IREA_BE_URL
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 401
+      - 403
   - name: "IREA ADMIN BE" 
     url: $IREA_ADMIN_BE_URL
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 401
   - name: "IREA ADMIN FE" 
     url: $IREA_ADMIN_FE_URL
 
