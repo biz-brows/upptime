@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/irea.kiminet.com.ico",
     "slug": "irea",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "87.26%",
+    "uptimeDay": "87.26%",
+    "uptimeWeek": "87.26%",
+    "uptimeMonth": "87.26%",
+    "uptimeYear": "87.26%",
     "time": 790,
     "timeDay": 790,
     "timeWeek": 790,
     "timeMonth": 790,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2025-04-16": 0
+      "2025-04-17": 49,
+      "2025-04-16": 38
     }
   },
   {
@@ -36,7 +37,8 @@
     "timeMonth": 919,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2025-04-16": 558
+      "2025-04-17": 49,
+      "2025-04-16": 596
     }
   },
   {
@@ -56,7 +58,8 @@
     "timeMonth": 575,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-04-16": 558
+      "2025-04-17": 49,
+      "2025-04-16": 596
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "irea-admin-fe",
     "status": "down",
-    "uptime": "98.14%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "98.14%",
-    "uptimeYear": "98.14%",
+    "uptime": "84.64%",
+    "uptimeDay": "84.64%",
+    "uptimeWeek": "84.64%",
+    "uptimeMonth": "84.64%",
+    "uptimeYear": "84.64%",
     "time": 975,
     "timeDay": 975,
     "timeWeek": 975,
     "timeMonth": 975,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2025-04-16": 10
+      "2025-04-17": 49,
+      "2025-04-16": 48
     }
   }
 ]
